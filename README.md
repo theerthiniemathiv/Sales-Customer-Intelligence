@@ -58,5 +58,17 @@ A Linear Regression baseline model was used to forecast revenue for November 202
 - `tableau/` – Tableau-related files
 - `Data/processed/` – Processed data files
 
+## Tableau Public Dashboards
+
+Explore the three interactive dashboards:
+
+1. [Sales Performance & Customer Insights](https://public.tableau.com/views/SalesPerformance_17940539562360/SalesPerformanceCustomerInsightsDashboard)
+
+2. [Customer Behavior & Value Analysis](https://public.tableau.com/views/CustomerBehaviorandValueAnalysisDashboard/SalesPerformanceCustomerInsightsDashboard)
+
+3. [Sales Forecasting & Revenue Trends](https://public.tableau.com/views/SalesPerformanceCustomerInsightsDashboard_17939882805640/SalesForecastingRevenueTrendsDashboard)
+
+Tableau Public Profile: https://public.tableau.com/app/profile/theerthiniemathi.v/vizzes
+
 ## Author
 Theerthiniemathi V
